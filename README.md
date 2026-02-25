@@ -148,7 +148,7 @@ Contributions are welcome! Feel free to:
 
 ## 💡 References
 
-* Example MRI classification repository for reference: [Brain-MRI-Image-Classification-Using-Deep-Learning](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning) ([GitHub][1])
+* Example MRI classification repository for reference: [Brain-MRI-Image-Classification-Using-Deep-Learning](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning) 
 
 ---
 
